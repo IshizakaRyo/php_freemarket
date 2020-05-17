@@ -1,0 +1,54 @@
+.mypageBlock {
+    width: 73%;
+}
+.mypageBlock .container {
+    width: 100%;
+}
+.blockTitle {
+    color: #c0c0c0;
+    font-size: 28px;
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+.stockWrapper {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    margin-bottom: 40px;
+    justify-content: space-between;
+}
+.item {
+    margin-left: 10px;
+    margin-bottom: 30px;
+    width: 20%;
+}
+.item a {
+    text-decoration: none;
+    width: 100%;
+}
+.item img {
+    width: 130px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+.item p {
+    color: #000;
+    margin-bottom: 4px;
+    
+}
+
+/* メッセージ一覧 */
+.msgWrapper {
+    margin-bottom: 40px;
+}
+.msgBox table th {
+    padding-right: 30px;
+    padding-bottom: 20px;
+}
+.msgBox table td {
+    padding-right: 30px;
+    padding-bottom: 15px;
+}

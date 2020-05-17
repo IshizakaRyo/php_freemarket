@@ -1,0 +1,22 @@
+header {
+    background-color: #2e1572;
+}
+header .container {
+    width: 70%;
+    margin: 0 auto;
+    height: 90px;
+    line-height: 90px;
+    display: flex;
+    justify-content: space-between;
+}
+.headerLogo {
+    color: #d6d6d6;
+    font-size: 36px;
+    text-decoration: none;
+}
+.headerLeft a {
+    color: #d6d6d6;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 20px;
+}

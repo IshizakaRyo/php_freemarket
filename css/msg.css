@@ -1,0 +1,117 @@
+.bordTop {
+    width: 100%;
+}
+.bordTop .container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ebebeb;
+}
+.buyerInfo {
+    padding: 10px 54px;
+    float: left;
+}
+.buyerInfoP {
+    font-size: 18px;
+    margin: 10px;
+}
+.buyerInfoPic {
+    margin-top: 14px;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+/* メッセージセクション */
+.msg-section {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #F6F5F4;
+    padding-bottom: 50px;
+}
+.msg-wrapper {
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.msg-container {
+    position: relative;
+    margin-bottom: 5px;
+}
+
+.msg-left-avator {
+    width: 44px;
+    height: 44px;
+    float: left;
+    margin-left: 20px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.msg-right-avator {
+    width: 44px;
+    height: 44px;
+    float: right;
+    margin-right: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.msg-text {
+    width: 70%;
+    border-radius: 5px;
+    margin-left: 80px;
+    padding: 15px;
+    position: relative;
+}
+.msg-text-left {
+    background-color: rgb(255, 238, 195);
+}
+.msg-text-right {
+    background-color: rgb(178, 227, 250);
+    margin-left: 176px;
+}
+.triangle-left {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    left: 70px;
+    top: 30px;
+    border-top: 10px solid transparent;
+    border-right: 15px solid rgb(255, 238, 195);
+    border-bottom: 10px solid transparent;
+}
+.triangle-right {
+    position: relative;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    left: 910px;
+    top: 30px;
+    border-top: 10px solid transparent;
+    border-left: 15px solid rgb(178, 227, 250);
+    border-bottom: 10px solid transparent;
+}
+.msg-time {
+    font-size: 8px;
+    margin-top: 8px;
+}
+.msg-time-left {
+    margin-left: 80px;
+}
+.msg-time-right {
+    float: right;
+    margin-right: 20px;
+}
+.msg-section textarea {
+    margin-top: 70px;
+    width: 90%;
+    margin-left: 30px;
+    padding: 15px;
+    height: 100px;
+    font-size: 20px;
+}
+.msg-submit {
+    text-align: center;
+    margin-right: 36px;
+    border: none;
+}

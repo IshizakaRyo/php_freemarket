@@ -1,0 +1,39 @@
+.resultBar {
+    width: 100%;
+    margin-bottom: 28px;
+    height: 44px;
+    line-height: 44px;
+    background-color: #ebebeb;
+}
+.resultBar p {
+    margin-left: 10px;
+}
+.resultBarNum {
+    float: right;
+    margin-right: 10px;
+}
+.resultWrapper {
+    margin-bottom: 0;
+}
+.pagination {
+    margin-bottom: 50px;
+}
+.pagination ul {  
+    list-style: none;
+    width: 300px;
+    height: 36px;
+    line-height: 36px;
+    margin: 0 auto;
+    
+}
+.pagination li {
+    width: 24px;
+    text-align: center;
+    background-color: #ebebeb;
+    float: left;
+    margin-left: 24px;
+}
+.pagination a{
+    text-decoration: none;
+    color: #000;
+}

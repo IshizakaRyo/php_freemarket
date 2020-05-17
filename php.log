@@ -1,0 +1,1088 @@
+[09-May-2020 01:49:22 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 20
+[09-May-2020 01:49:22 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:49:22 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 01:49:23 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 20
+[09-May-2020 01:49:23 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:49:23 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 01:51:13 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 20
+[09-May-2020 01:51:13 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:51:13 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 01:51:15 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 20
+[09-May-2020 01:51:15 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:51:15 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'name' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'category' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 38
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'price' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 40
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 42
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 44
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 45
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 46
+[09-May-2020 01:53:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'comment' in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 50
+[09-May-2020 01:56:51 Asia/Tokyo] PHP Notice:  Undefined variable: sort_t in /Applications/MAMP/htdocs/Gadget/top.php on line 18
+[09-May-2020 01:56:54 Asia/Tokyo] PHP Notice:  Undefined index: submit in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 16
+[09-May-2020 01:56:57 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 20
+[09-May-2020 01:56:57 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:56:57 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 01:57:44 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 20
+[09-May-2020 01:57:44 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:57:44 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 01:58:22 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 21
+[09-May-2020 01:58:22 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:58:22 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 01:58:38 Asia/Tokyo] PHP Notice:  Undefined index: buyer_id in /Applications/MAMP/htdocs/Gadget/productDetail.php on line 21
+[09-May-2020 01:58:38 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 01:58:38 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO bord (product_id, sale_user, buy_user, create_date) VALUES (:p_id, :s_uid, :b_uid, :date)
+)
+
+[09-May-2020 16:47:04 Asia/Tokyo] PHP Notice:  Undefined variable: product_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 8
+[09-May-2020 16:48:37 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:48:37 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:48:37 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:48:37 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:48:38 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:48:38 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:48:38 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:48:38 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:48:55 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:49:13 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:49:14 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:49:14 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:49:14 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[09-May-2020 16:49:14 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => SELECT m.id AS m_id, product_id, bord_id, send_date, to_user, from_user, sale_user, buy_user, msg, b.create_date FROM message AS m RIGHT JOIN bord AS b ON b.id = m.bord_id WHERE b.id = :id AND m.delete_flg = 0 ORDER BY send_date ASC
+)
+
+[09-May-2020 16:52:50 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:52:50 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:52:50 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[09-May-2020 16:52:50 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 22
+[09-May-2020 16:53:43 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:53:43 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:53:43 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[09-May-2020 16:53:43 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 22
+[09-May-2020 16:53:43 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:53:43 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:53:43 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[09-May-2020 16:53:43 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 22
+[09-May-2020 16:53:44 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:53:44 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:53:44 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[09-May-2020 16:53:44 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 22
+[09-May-2020 16:53:57 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:53:57 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:53:57 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[09-May-2020 16:56:24 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:56:24 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:56:24 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:56:24 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:56:22 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:56:22 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:56:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:56:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:56:47 Asia/Tokyo] PHP Notice:  Undefined variable: bordInfo in /Applications/MAMP/htdocs/Gadget/msg.php on line 8
+[09-May-2020 16:56:56 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:56:56 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:58:30 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:58:30 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 16:58:40 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 16:58:40 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:32:06 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:32:06 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:32:23 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:32:23 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:32:24 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:32:24 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:32:46 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:32:46 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:32:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:32:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:32:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:32:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:32:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:32:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:33:11 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:33:11 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:33:11 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:33:11 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:33:11 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:33:11 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:33:32 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:33:32 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:33:32 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:33:38 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:33:38 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:33:38 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:34:21 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:34:21 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:34:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:35:01 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:35:01 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:35:01 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:35:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:35:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:35:47 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:35:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:35:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:35:47 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:35:48 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:35:48 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:35:48 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:35:57 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:35:57 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:35:57 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:36:02 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:36:02 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:36:02 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:36:20 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:36:20 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:36:20 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:37:31 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:37:31 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:37:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:38:00 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:38:00 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:38:00 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:38:05 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:38:05 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:38:05 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:38:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:38:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:38:13 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:38:18 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:38:18 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:38:18 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:38:58 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:38:58 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:38:58 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:39:12 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:39:12 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:39:12 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:39:23 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:39:23 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:39:23 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:39:23 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:39:23 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:39:23 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:39:23 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:39:23 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:39:23 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:39:26 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:39:26 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:39:26 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:39:27 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:39:27 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:39:27 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:39:46 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:39:46 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:39:46 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:40:05 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:40:05 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:40:05 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:40:56 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:40:56 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:40:56 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:41:01 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:41:01 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:41:01 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:41:15 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:41:15 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:41:15 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:41:26 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:41:26 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:41:26 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:41:27 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:41:27 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:41:27 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:44:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:44:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:44:13 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:44:14 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:44:14 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:44:14 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:44:22 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:44:22 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:44:22 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:45:34 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:45:34 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:45:34 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:45:34 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:45:46 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:45:46 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:45:46 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:45:46 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:46:22 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:46:22 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:46:22 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:46:22 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:46:46 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:46:46 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:46:46 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:46:46 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:46:46 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:46:46 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:46:46 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:46:46 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:46:46 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:46:46 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:46:46 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:46:46 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:46:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:46:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:46:47 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:46:47 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:46:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:46:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:46:47 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:46:47 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:46:56 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:46:56 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:46:56 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:46:56 Asia/Tokyo] PHP Notice:  Undefined index: sale_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 12
+[09-May-2020 20:47:23 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:47:23 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:47:23 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:48:21 Asia/Tokyo] PHP Notice:  Undefined variable: email in /Applications/MAMP/htdocs/Gadget/myInfo.php on line 64
+[09-May-2020 20:48:21 Asia/Tokyo] PHP Notice:  Undefined variable: email in /Applications/MAMP/htdocs/Gadget/myInfo.php on line 65
+[09-May-2020 20:48:21 Asia/Tokyo] PHP Notice:  Undefined variable: name in /Applications/MAMP/htdocs/Gadget/myInfo.php on line 68
+[09-May-2020 20:48:21 Asia/Tokyo] PHP Notice:  Undefined variable: name in /Applications/MAMP/htdocs/Gadget/myInfo.php on line 69
+[09-May-2020 20:48:40 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:48:40 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:50:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:50:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:50:44 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:50:44 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:51:05 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:51:05 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:51:06 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:51:06 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:51:23 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:51:23 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:51:24 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:51:24 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:51:24 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:51:24 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:51:42 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:51:42 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:10 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:52:10 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:11 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:52:11 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:11 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:52:11 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:11 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:52:11 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:21 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:52:21 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:52:21 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:52:21 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:52:21 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:52:21 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:52:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:53:25 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:53:25 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:53:25 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:53:25 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:53:25 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:53:25 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:53:29 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:53:29 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:53:29 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:53:44 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:53:44 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:53:44 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:53:44 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:53:44 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:53:44 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:02 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:02 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:02 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:03 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:03 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:03 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:29 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:29 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:29 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:29 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:29 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:29 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:29 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:29 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:29 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:39 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:39 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:39 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:40 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:40 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:40 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:58 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:58 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:58 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:54:58 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:54:58 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:54:58 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:55:42 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:55:42 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:55:42 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:55:47 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:55:47 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:55:47 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:56:28 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:56:28 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:56:28 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:57:07 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:57:07 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:57:07 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:57:07 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:57:07 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:57:07 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[09-May-2020 20:57:29 Asia/Tokyo] デバッグ：msg情報を取得します。
+[09-May-2020 20:57:29 Asia/Tokyo] デバッグ：掲示板ID：2
+[09-May-2020 20:57:29 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 16:53:26 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 16:53:26 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 16:53:26 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 16:54:15 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 16:54:15 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 16:54:15 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 16:54:30 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 16:54:30 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 16:54:30 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:00:31 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:00:31 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:00:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:01:07 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:01:07 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:01:07 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:01:09 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:01:09 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:01:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:01:21 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:01:21 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:01:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:01:21 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:01:21 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:01:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:01:21 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:01:21 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:01:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:01:31 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:01:31 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:01:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:01:42 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:01:42 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:01:42 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:02:57 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:02:57 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:02:57 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:03:24 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:03:24 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:03:24 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:03:31 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:03:31 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:03:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 17:03:41 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 17:03:41 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 17:03:41 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:11:35 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:11:35 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:11:35 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:12:00 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:12:00 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:12:00 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:12:00 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 18:12:09 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:12:09 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:12:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:12:09 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 18:13:30 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:13:30 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:13:30 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:13:32 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:13:32 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:13:32 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:13:59 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:13:59 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:13:59 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:14:08 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:14:08 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:14:08 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:14:17 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:14:17 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:14:17 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:14:28 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:14:28 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:14:28 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:15:09 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:15:09 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:15:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:15:09 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[13-May-2020 18:15:09 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[13-May-2020 18:15:09 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO message (bord_id, send_date, from_user, to_user, msg) VALUES(:bord_id, :send_date, :from_user, :to_user, :msg)
+)
+
+[13-May-2020 18:17:26 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:17:26 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:17:26 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:17:26 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[13-May-2020 18:17:26 Asia/Tokyo] PHP Notice:  Undefined variable: m_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 28
+[13-May-2020 18:17:26 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:17:26 Asia/Tokyo] デバッグ：掲示板ID：
+[13-May-2020 18:17:26 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:17:26 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 18:17:31 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:17:31 Asia/Tokyo] デバッグ：掲示板ID：
+[13-May-2020 18:17:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:17:31 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 18:17:50 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:17:50 Asia/Tokyo] デバッグ：掲示板ID：
+[13-May-2020 18:17:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:17:50 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 18:17:51 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:17:51 Asia/Tokyo] デバッグ：掲示板ID：
+[13-May-2020 18:17:51 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:17:51 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 18:18:05 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:18:05 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:18:05 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:18:16 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:18:16 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:18:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:18:34 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:18:34 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:18:34 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:18:34 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[13-May-2020 18:18:34 Asia/Tokyo] PHP Notice:  Undefined variable: m_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 28
+[13-May-2020 18:18:34 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:18:34 Asia/Tokyo] デバッグ：掲示板ID：
+[13-May-2020 18:18:34 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:18:34 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 18:33:40 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:33:40 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:33:40 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:33:40 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 18:33:50 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:33:50 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:33:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 18:33:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 25
+[13-May-2020 18:33:50 Asia/Tokyo] デバッグ：クエリに失敗しました。
+[13-May-2020 18:33:50 Asia/Tokyo] デバッグ：失敗したSQL：PDOStatement Object
+(
+    [queryString] => INSERT INTO message (bord_id, send_date, from_user, to_user, msg) VALUES(:bord_id, :send_date, :from_user, :to_user, :msg)
+)
+
+[13-May-2020 18:35:53 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:35:53 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:35:53 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 18:36:00 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:36:00 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:36:00 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 18:36:00 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 18:36:00 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:25:20 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:25:20 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:25:20 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:27:06 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:27:06 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:27:06 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:29:00 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:29:00 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:29:00 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:29:00 Asia/Tokyo] PHP Notice:  Undefined variable: val in /Applications/MAMP/htdocs/Gadget/msg.php on line 87
+[13-May-2020 23:29:00 Asia/Tokyo] PHP Notice:  Undefined variable: val in /Applications/MAMP/htdocs/Gadget/msg.php on line 89
+[13-May-2020 23:29:18 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:29:18 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:29:18 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:00 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:00 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:00 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:00 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 23:30:00 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:00 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:00 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:00 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 23:30:16 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:16 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:16 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 23:30:24 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:24 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:24 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:32 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:32 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:32 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:32 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 23:30:33 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:33 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:33 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:33 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 23:30:43 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:43 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:43 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:48 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:48 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:48 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:57 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:57 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:57 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:57 Asia/Tokyo] PHP Notice:  Undefined index: comment in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 23:30:57 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:30:57 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:30:57 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:30:57 Asia/Tokyo] PHP Notice:  Undefined index: comment in /Applications/MAMP/htdocs/Gadget/msg.php on line 44
+[13-May-2020 23:31:03 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:31:03 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:31:03 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:31:09 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:31:09 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:31:09 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:31:51 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:31:51 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:31:51 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:31:57 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:31:57 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:31:57 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:32:52 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:32:52 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:32:52 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:33:05 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:33:05 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:33:05 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:33:37 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:33:37 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:33:37 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:33:43 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:33:43 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:33:44 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:33:44 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:33:44 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:33:44 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:33:44 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:33:44 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:33:44 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:34:07 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:34:07 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:34:07 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:34:54 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:34:54 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:34:54 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:34:54 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:34:54 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:35:15 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:35:15 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:35:15 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:35:52 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:35:52 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:35:52 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:36:08 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:36:08 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:36:08 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:36:08 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:36:08 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:36:35 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:36:35 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:36:35 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:27 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:27 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:27 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:28 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:28 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:28 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:28 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:28 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:40 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:40 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:40 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:40 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:40 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:40 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:41 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:41 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:41 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:38:41 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:38:41 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:38:41 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:39:36 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:39:36 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:39:36 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:40:40 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:40:40 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:40:40 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:40:50 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:40:50 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:40:50 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:41:05 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:41:05 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:41:05 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:41:37 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:41:37 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:41:37 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:41:38 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:41:38 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:41:38 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:41:38 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:41:38 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:41:38 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:42:42 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:42:42 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:42:42 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:48:11 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:48:11 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:48:11 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:51:52 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:51:52 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:51:52 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:51:52 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:52:48 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:52:48 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:52:48 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:52:48 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:52:48 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:48 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:48 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:48 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:49 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:52:49 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:52:49 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:52:49 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:52:49 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:49 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:49 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:49 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:50 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:52:50 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:52:50 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:52:50 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:52:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:52:50 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:53:06 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:53:06 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:06 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:19 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:53:19 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:53:19 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:53:19 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:53:19 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:19 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:19 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:19 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:53:20 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:53:20 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:53:20 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:53:20 Asia/Tokyo] PHP Warning:  Illegal string offset 'pic' in /Applications/MAMP/htdocs/Gadget/msg.php on line 94
+[13-May-2020 23:54:05 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:54:05 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:54:05 Asia/Tokyo] PHP Notice:  Undefined index: buyer_user in /Applications/MAMP/htdocs/Gadget/msg.php on line 17
+[13-May-2020 23:54:05 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:55:55 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:55:55 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:55:55 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:55:55 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:55:55 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:55:55 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:56:46 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:56:46 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:56:46 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:57:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:57:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:57:13 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:57:17 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:57:17 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:57:17 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:57:17 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:57:17 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:57:17 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:57:18 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:57:18 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:57:18 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:57:54 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:57:54 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:57:54 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:57:54 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:57:54 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:57:54 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:57:54 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:57:54 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:57:54 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:58:03 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:58:03 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:58:03 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:59:09 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:59:09 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:59:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 23:59:09 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:59:26 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:59:26 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:59:26 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/msg.php on line 10
+[13-May-2020 23:59:26 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[13-May-2020 23:59:59 Asia/Tokyo] デバッグ：msg情報を取得します。
+[13-May-2020 23:59:59 Asia/Tokyo] デバッグ：掲示板ID：2
+[13-May-2020 23:59:59 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[14-May-2020 00:00:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[14-May-2020 00:00:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[14-May-2020 00:00:13 Asia/Tokyo] デバッグ：msg情報を取得します。
+[14-May-2020 00:00:13 Asia/Tokyo] デバッグ：掲示板ID：2
+[14-May-2020 00:00:13 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[14-May-2020 00:00:37 Asia/Tokyo] デバッグ：msg情報を取得します。
+[14-May-2020 00:00:37 Asia/Tokyo] デバッグ：掲示板ID：
+[14-May-2020 00:00:37 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[14-May-2020 00:00:37 Asia/Tokyo] PHP Notice:  Undefined offset: 2 in /Applications/MAMP/htdocs/Gadget/msg.php on line 53
+[14-May-2020 00:00:42 Asia/Tokyo] デバッグ：msg情報を取得します。
+[14-May-2020 00:00:42 Asia/Tokyo] デバッグ：掲示板ID：2
+[14-May-2020 00:00:42 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[14-May-2020 00:01:04 Asia/Tokyo] デバッグ：msg情報を取得します。
+[14-May-2020 00:01:04 Asia/Tokyo] デバッグ：掲示板ID：2
+[14-May-2020 00:01:04 Asia/Tokyo] デバッグ：msg情報を取得します。
+[14-May-2020 00:01:04 Asia/Tokyo] デバッグ：掲示板ID：2
+[14-May-2020 00:01:04 Asia/Tokyo] PHP Notice:  Undefined index: msg in /Applications/MAMP/htdocs/Gadget/msg.php on line 26
+[14-May-2020 00:01:12 Asia/Tokyo] PHP Notice:  Undefined variable: sort_t in /Applications/MAMP/htdocs/Gadget/top.php on line 18
+[14-May-2020 14:38:49 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 15
+[14-May-2020 14:40:13 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:13 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:14 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:14 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:14 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:14 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:29 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:29 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:30 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:30 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:35 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:35 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:36 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:36 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:44 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:44 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:50 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:40:50 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:43:16 Asia/Tokyo] PHP Warning:  Use of undefined constant getProduct - assumed 'getProduct' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/Gadget/mypage.php on line 7
+[14-May-2020 14:43:16 Asia/Tokyo] PHP Warning:  Invalid argument supplied for foreach() in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:43:24 Asia/Tokyo] PHP Warning:  Use of undefined constant getProduct - assumed 'getProduct' (this will throw an Error in a future version of PHP) in /Applications/MAMP/htdocs/Gadget/mypage.php on line 7
+[14-May-2020 14:46:32 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[14-May-2020 14:46:32 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/function.php on line 75
+[14-May-2020 14:46:59 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 15
+[14-May-2020 14:47:00 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 15
+[14-May-2020 14:48:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:48:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:48:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:48:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 16
+[14-May-2020 14:50:40 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:50:40 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:50:41 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:50:41 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:50:41 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:50:41 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:50:41 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:50:41 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:04 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:04 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:04 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:04 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:16 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:32 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:32 Asia/Tokyo] PHP Notice:  Undefined index: id in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:38 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:38 Asia/Tokyo] PHP Notice:  Undefined index: name in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:43 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:51:43 Asia/Tokyo] PHP Notice:  Array to string conversion in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:52:43 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 17
+[14-May-2020 14:52:43 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 17
+[14-May-2020 14:55:24 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:55:24 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:56:06 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:56:06 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:56:41 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:56:41 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:56:41 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:56:41 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:56:42 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:56:42 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:56:42 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:56:42 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:57:09 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:57:09 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:57:09 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 20
+[14-May-2020 14:57:09 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:57:09 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:57:09 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 20
+[14-May-2020 14:57:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:57:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:57:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 20
+[14-May-2020 14:57:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 18
+[14-May-2020 14:57:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 19
+[14-May-2020 14:57:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 20
+[14-May-2020 15:01:27 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 75
+[14-May-2020 15:01:27 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 76
+[14-May-2020 15:01:27 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 77
+[14-May-2020 15:01:27 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 75
+[14-May-2020 15:01:27 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 76
+[14-May-2020 15:01:27 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 77
+[14-May-2020 15:02:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 75
+[14-May-2020 15:02:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 76
+[14-May-2020 15:02:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 77
+[14-May-2020 15:02:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 75
+[14-May-2020 15:02:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 76
+[14-May-2020 15:02:56 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 77
+[14-May-2020 15:03:07 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 75
+[14-May-2020 15:03:07 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 76
+[14-May-2020 15:03:07 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 77
+[14-May-2020 15:03:07 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 75
+[14-May-2020 15:03:07 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 76
+[14-May-2020 15:03:07 Asia/Tokyo] PHP Notice:  Undefined offset: 1 in /Applications/MAMP/htdocs/Gadget/mypage.php on line 77
+[14-May-2020 16:49:15 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:49:45 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:49:53 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:05 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:10 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:17 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:22 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:26 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:42 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:50:49 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:51:00 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:51:00 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:51:01 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:51:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 16:51:35 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:23:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:23:10 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:23:10 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:23:10 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:23:19 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:23:35 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:23:35 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:24:06 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:24:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:24:09 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:25:06 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:25:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:25:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:25:25 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:25:25 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[14-May-2020 17:25:29 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:22:00 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:22:01 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:22:01 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:22:22 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:22:44 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:22:52 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:23:35 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:23:35 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:23:40 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:23:40 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:23:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:23:50 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:23:58 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:24:07 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:24:21 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:24:27 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:24:31 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:25:06 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 18:25:16 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/withdrawl.php on line 4
+[15-May-2020 22:01:05 Asia/Tokyo] PHP Notice:  Undefined index: user_id in /Applications/MAMP/htdocs/Gadget/top.php on line 3
+[15-May-2020 22:01:05 Asia/Tokyo] PHP Notice:  Undefined variable: sort_t in /Applications/MAMP/htdocs/Gadget/top.php on line 18

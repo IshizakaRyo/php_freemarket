@@ -1,0 +1,124 @@
+/* ログイン画面　新規登録画面 */
+.signForm .container {
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-bottom: 40px;
+}
+.formTitle {
+    font-size: 40px;
+    text-align: center;
+}
+.signFormWrapper {
+    width: 34%;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 56px 56px;
+    padding-bottom: 50px;
+    border: 1px solid #000;
+    background-color: #f7f6f6;
+}
+.signFormWrapper label {
+    display: block;
+    margin-bottom: 40px;
+}
+.signFormWrapper p {
+    margin-bottom: 15px;
+    font-size: 28px;
+    color: #c0c0c0;
+}
+.signFormWrapper textarea {
+    width: 100%;
+    border: 1px solid #000;
+    font-size: 24px;
+    height: 150px;
+}
+.inputNotice {
+    font-size: 15px;
+    margin-left: 20px;
+}
+.inputText {
+    width: 100%;
+    font-size: 20px;
+    padding-left: 10px;
+    height: 36px;
+    border: 1px solid #000;
+    margin-bottom: 30px;
+}
+.inputAge {
+    width: 10%;
+}
+.area-drop {
+    margin-bottom: 15px;
+    width: 100%;
+    height: 140px;
+    background: #fff;
+    color: #dfdede;
+    border: 1px solid #000;
+    text-align: center;
+    line-height: 150px;
+    position: relative;
+    box-sizing: border-box;
+}
+.input-file {
+    opacity:0;
+    width:100%;
+    height:140px;
+    position:absolute;
+    top:0;
+    left:0;
+    z-index: 2;
+}
+.prev-img {
+    width:100%;
+    position:absolute;
+    height: 100%;
+    top:0;
+    left:0;
+}
+.inputMemo {
+    font-size: 12px;
+    padding: 0 8px;
+}
+.checkboxText {
+    color: #c0c0c0;
+}
+.submitContainer {
+    overflow: hidden;
+}
+.submit {
+    color: #c0c0c0;
+    background-color: #e6e6e6;
+    width: 100px;
+    margin-top: 50px;
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 15px;
+    float: right;
+}
+.withdlButtonCon  {
+    text-align: center;
+}
+.withdrawlButton {
+    background-color: #000;
+    color: #fff;
+    width: 100px;
+    height: 40px;
+    margin: 0 auto;
+    cursor: pointer;
+}
+.withdNote {
+    color: red;
+    text-align: center;
+    font-size: 40px;
+    font-weight: normal;
+    margin-bottom: 100px;
+}
+/* フォームバリデーション失敗時のテキスト */
+.areaMsg  {
+    color: red;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
